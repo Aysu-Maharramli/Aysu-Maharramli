@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm driven to consistently improve my abilities and advance my career in both Data Analysis and Data Science sectors. Confident in my abilities to come up with innovative ideas for these 2 areas.
 
 <!--
 **Aysu-Maharramli/Aysu-Maharramli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
