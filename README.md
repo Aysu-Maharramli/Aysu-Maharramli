@@ -1,4 +1,5 @@
 I'm driven to consistently improve my abilities and advance my career in both Data Analysis and Data Science sectors. Confident in my abilities to come up with innovative ideas for these 2 areas.
+
 Gmail: meherremli.aysu1@gmail.com
 Linkedin: linkedin.com/in/aysu-maharramli
 
