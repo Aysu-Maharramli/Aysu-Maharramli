@@ -1,6 +1,6 @@
 I'm driven to consistently improve my abilities and advance my career in both Data Analysis and Data Science sectors. Confident in my abilities to come up with innovative ideas for these 2 areas.
 
-- Gmail: meherremli.aysu1@gmail.com
+- Gmail: aysumaharramli@gmail.com
 - Linkedin: https://www.linkedin.com/in/aysu-maharramli/
 - Tableau Public: https://public.tableau.com/app/profile/aysu1446
 - Credly: https://www.credly.com/users/aysu-maharramli
