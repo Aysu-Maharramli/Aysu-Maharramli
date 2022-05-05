@@ -4,6 +4,7 @@ I'm driven to consistently improve my abilities and advance my career in both Da
 - Linkedin: https://www.linkedin.com/in/aysu-maharramli/
 - Tableau Public: https://public.tableau.com/app/profile/aysu1446
 - Credly: https://www.credly.com/users/aysu-maharramli
+- Credential.net: https://www.credential.net/profile/aysumaharramli/wallet
 
 <!--
 **Aysu-Maharramli/Aysu-Maharramli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
