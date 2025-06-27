@@ -1,4 +1,4 @@
-Google certified TensorFlow developer and SAS certified AI & ML professional with 2 years of experience. Proficient in predictive modelling, data processing/visualization, deep learning algorithms, as well as programming languages, including Python & R.
+Google certified TensorFlow developer and SAS certified AI & ML professional with 3 years of experience. Proficient in predictive modelling, data processing/visualization, deep learning algorithms, as well as programming languages, including Python & R.
 
 - Gmail: aysumaharramli@gmail.com
 - Linkedin: https://www.linkedin.com/in/aysu-maharramli/
